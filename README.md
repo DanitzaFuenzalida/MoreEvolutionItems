@@ -1,4 +1,24 @@
 # MoreEvolutionItems
 A datapack for Minecraft Cobblemon that adds crafting recepies for specific evolutions items that cannot be crafted in normal Cobblemon.
+All recepies are naturally compatible with vanilla Minecraft and Cobblemon only. No additional mods are necessary. 
 
 Currently available for Cobblemon version 1.20+
+
+## Instructions
+
+To use datapack, drop datapack zip file on datapack folder for world. Datapack is not global, must be used for each different world instance.  
+
+## Recepies
+
++ Auspicious Armor: Craft gold chesplate, with copper ingots on middle left, middle right, and bottom middle slots. Used to evolve Charcadet into Armarouge.
++ Black Augurite: Use one obsidian on a stonecutter. Used to evolve Scyther into Kleavor.
++ Deep Sea Scale: Cook tropical fish in a furnace. Used to evolve Clamperl into Gorebyss + trading or using a link cable.
++ Deep Sea Tooth: Cook Tropical fish in a funace. Used to evolve Clamperl into Huntail + trading or using a link cable. 
++ Dragon Scale: Use a heart of the sea on a stone cutter. Used to evolve Seadra into Kingdra + trading or using a link cable.
++ Malicious Armor: Craft iron chesplate, with lapiz on middle left, middle right, and bottom middle slots. Used to evolve Charcadet into Ceruledge.
++  Oval Stone: Use one smooth stone on a stonecutter. Used to evolve Happiny into Chansey during the day.
++  Prism Scale: Use one nautilus shell on a stonecutter. Used to evolve Feebas into Milotic + trading or using a link cable.
++  Razor Claw: Use one bone on a stonecutter.
++  Razor Fang: Use one bone on a stonecutter. 
++  Sweet Apple: Shapless crafting, one apple and one leichi berry on crafting table.
++  Tart Apple: Shapeless crafting, one apple and one belue berry on crafting table. 
