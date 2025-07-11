@@ -8,7 +8,7 @@ Currently available for Cobblemon version 1.20+
 
 To use datapack, drop datapack zip file on datapack folder for world. Datapack is not global, must be used for each different world instance.  
 
-## Recepies
+## Recipes
 
 + Auspicious Armor: Craft gold chesplate, with copper ingots on middle left, middle right, and bottom middle slots. Used to evolve Charcadet into Armarouge.
 + Black Augurite: Use one obsidian on a stonecutter. Used to evolve Scyther into Kleavor.
