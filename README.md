@@ -2,7 +2,7 @@
 A datapack for Minecraft Cobblemon that adds crafting recipes for specific evolutions items that cannot be crafted in normal Cobblemon.
 All recipes are naturally compatible with vanilla Minecraft and Cobblemon only. No additional mods are necessary. 
 
-Currently available for Cobblemon version 1.20+
+Currently available for Cobblemon version 1.20+ and 1.21+
 
 ## Instructions
 
